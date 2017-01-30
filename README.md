@@ -1,19 +1,15 @@
 # DevOps Learning
 Links of devops for Learning
 
+## Team City
+* 24/7 Build Engineer - JetBrains *
 
-## Backups
-* Backup software.*
+* [Getting Started](https://www.jetbrains.com/teamcity/documentation/)
+* [TeamCity Sagar S](https://www.youtube.com/watch?v=sIL_-bTIv0k&list=PLYLI_nYYAA7L1BXG9t8pT9rJN7jTKCzFH)
 
-* [Amanda](http://www.amanda.org/) - Client-server model backup tool.
+## Maven
 
-## Collaborative Software
+*Java build tools.*
 
-*Collaborative software or groupware suites.*
-
-* [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
-* [EGroupware](http://www.egroupware.org/) - Groupware software written in PHP.
-* [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
-* [Kolab](https://www.kolab.org) - Another groupware suite.
-* [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
-* [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
+* [WHY SHOULD WE USE MAVEN?](http://www.javacreed.com/why-should-we-use-maven/) 
+* [DOS batch files to compile and run a Java program](DOS batch files to compile and run a Java program)
