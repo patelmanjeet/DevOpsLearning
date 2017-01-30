@@ -25,8 +25,6 @@ Links of devops for Learning
 * [Artifactory Release Plugin with Jenkins](https://www.youtube.com/watch?v=7IJVG7asfPE)
 * [Artifactory 4.0 Jenkins Integration](https://www.youtube.com/watch?v=fxtQThl8B-8)
 
-## GIT
-
 ## Gulp / NPM / Bower
 * [beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 * [Work Smart with Bower](https://www.youtube.com/watch?v=65Jpd_PQoq0)
@@ -36,15 +34,10 @@ Links of devops for Learning
 
 ## JS Unit testing framework with Protractor / Karma / Jasmine And Karma CI
 
-* [Unit Testing in AngularJS ](https://www.youtube.com/watch?v=YRzr27Bpx_g&list=PLw5h0DiJ-9PDbh2i6knU4FybWA63PPbVi)
+* [Unit Testing in AngularJS ](https://www.youtube.com/watch?v=NRzuSX1lpls)
 
 ## Hazelcast
 
 ## Java
 
 ## Jira
-
-## Git
-
-
-
