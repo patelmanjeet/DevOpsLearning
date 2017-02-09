@@ -39,6 +39,8 @@ Links of devops for Learning
 ## GIT
 
 * [Git Real](https://www.youtube.com/playlist?list=PL4KQBOUw6E7sgf5KIEMUcTT_zWpNmYfbd)
+* [GIT Workflow - Georgia Tech - Software Development Process](https://www.youtube.com/watch?v=3a2x1iJFJWc)
+* [How to use Git](https://www.youtube.com/playlist?list=PLjQo0sojbbxVHcVN4h9DMu6U6spKk21uP)
 
 ## Hazelcast
 
