@@ -41,6 +41,11 @@ Links of devops for Learning
 * [Git Real](https://www.youtube.com/playlist?list=PL4KQBOUw6E7sgf5KIEMUcTT_zWpNmYfbd)
 * [GIT Workflow - Georgia Tech - Software Development Process](https://www.youtube.com/watch?v=3a2x1iJFJWc)
 * [How to use Git](https://www.youtube.com/playlist?list=PLjQo0sojbbxVHcVN4h9DMu6U6spKk21uP)
+* [Using git-flow to automate your git branching workflow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
+* [Git Flow](https://github.com/nvie/gitflow)
+* [The easy release management workflow](https://blog.axosoft.com/2017/01/31/gitflow/)
+* [Git Flow Cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+* [A comparison of using `git flow` commands versus raw `git` commands. ](https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac)
 
 ## Hazelcast
 
